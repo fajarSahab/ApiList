@@ -1,0 +1,13 @@
+[
+    {"nama": "Veneno", "merek": "Lamborghini", "imageId": "veneno"},
+    {"nama": "Urus", "merek": "Lamborghini", "imageId": "urus"},
+    {"nama": "Galardo", "merek": "Lamborghini", "imageId": "galardo"},
+    {"nama": "GT86", "merek": "Toyota", "imageId": "gt86"},
+    {"nama": "Supra", "merek": "Toyota", "imageId": "supra"},
+    {"nama": "Silvia S15", "merek": "Nissan", "imageId": "silvia s15"},
+    {"nama": "Silvia S14", "merek": "Nissan", "imageId": "silvia s14"},
+    {"nama": "GTR R34", "merek": "Nissan", "imageId": "gtr r34"}
+
+
+
+]
